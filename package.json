@@ -1,0 +1,17 @@
+{
+  "name": "social-api",
+  "version": "1.0.0",
+  "description": "18. NoSQL Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^5.13.16"
+  },
+  "devDependencies": {}
+}
